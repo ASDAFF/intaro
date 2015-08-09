@@ -1,6 +1,8 @@
 <?
 /*
 	Класс по работе с разделом Wishlist
+	я его разместил в 
+	\Bitrix\www\bitrix\php_interface\init.php
 */
 class Wishlist{
 	// Добавление нового товара в Wishlist пользователя
